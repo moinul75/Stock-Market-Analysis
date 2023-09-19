@@ -24,11 +24,11 @@ def load_data_from_json(json_file, db_file, table_name):
 
 
     for entry in data:
-        volume = int(entry['volume'].replace(',', '').strip()) 
-        open_value = entry['open'].replace(',', '').strip()
-        high = entry['high'].replace(',', '').strip()
-        low = entry['low'].replace(',', '').strip()
-        close = entry['close'].replace(',', '').strip()
+        volume = entry['volume']
+        open_value = entry['open']
+        high = entry['high']
+        low = entry['low']
+        close = entry['close']
         cursor.execute(f"INSERT INTO {table_name} (date, trade_code, high, low, open, close, volume) "
                     "VALUES (?, ?, ?, ?, ?, ?, ?)",
                     (entry['date'], entry['trade_code'], high,
