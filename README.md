@@ -9,9 +9,7 @@ The "Stock Market Analysis" project is designed to provide in-depth analysis and
 - [What I Learned](#what-i-learned)
 - [Challenges Faced](#challenges-faced)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-
+- [Projects Highligts](#projecthighligts)
 
 ## What I Learned
 
@@ -69,7 +67,7 @@ Throughout the project, I encountered several challenges, including:
 
 These challenges presented valuable learning opportunities, and I worked diligently to overcome them in the pursuit of building a robust and dynamic stock market analysis tool.
 
-## Uses 
+## Installation
 #  To Start This Project on Your Local Server
 
 Follow these steps to set up and run the project locally:
