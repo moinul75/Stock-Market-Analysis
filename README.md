@@ -11,6 +11,6 @@ The "Stock Market Analysis" project is designed to provide in-depth analysis and
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## What I Learned
