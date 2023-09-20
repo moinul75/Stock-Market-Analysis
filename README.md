@@ -90,3 +90,10 @@ Follow these steps to set up and run the project locally:
   <a href="https://stock24.pythonanywhere.com/">(link)https://stock24.pythonanywhere.com/</a>
 </pre>
 
+## Project Snapshots 
+![image](https://github.com/moinul75/Stock-Market-Analysis/assets/102654562/27f48a0e-6d39-4219-a0de-eb5949c630bf)
+
+every page has 100 data include and there are 160 pages in this project have. There is a mixed chart I have created this chart works for every page data inlcuding close in the y axis , data in the x axis , and also volume in the y axis and this chart has a select option which will take only the trade_code form current page trade_code and analyze with the current page data 
+![image](https://github.com/moinul75/Stock-Market-Analysis/assets/102654562/f7c8fa14-dc6a-4608-8fc1-ada4a2f51c62)
+
+
