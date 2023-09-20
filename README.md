@@ -56,3 +56,17 @@ I have learned how to implement pagination to ensure a smooth user experience wh
 
 These learning objectives have equipped me with valuable skills and knowledge for efficiently handling and analyzing data in real-world projects.
 
+
+## Challenges Faced
+
+Throughout the project, I encountered several challenges, including:
+
+- **Data Model Transformation:** Adapting the data model in my Stock database to accommodate JSON to SQLite 3 data conversion requirements.
+  
+- **Integration of REST Framework:** Overcoming hurdles in making the RESTful API responses in JSON format seamlessly interact with CRUD (Create, Read, Update, Delete) operations.
+
+- **Chart Visualization:** Learning and gaining expertise in chart visualization techniques, particularly with Apex Charts, as this was a new area of knowledge for me.
+
+These challenges presented valuable learning opportunities, and I worked diligently to overcome them in the pursuit of building a robust and dynamic stock market analysis tool.
+
+
