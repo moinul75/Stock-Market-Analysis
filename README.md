@@ -69,4 +69,24 @@ Throughout the project, I encountered several challenges, including:
 
 These challenges presented valuable learning opportunities, and I worked diligently to overcome them in the pursuit of building a robust and dynamic stock market analysis tool.
 
+## Uses 
+#  To Start This Project on Your Local Server
+
+Follow these steps to set up and run the project locally:
+
+1. **Clone the Repository:**
+   Use the `git clone` command to clone this repository to your local machine:
+   ```shell
+   git clone https://github.com/moinul75/Stock-Market-Analysis/
+2. **Create Virtual Environment**
+   Use the `python -m venv env` command to install env 
+3. **Go to the project directory and run this requirements.txt file to install all the packages used in this project**
+   Use `cd JanataWifi` and then run `pip install -r requiremts.txt` in order to install all the packages that have include on this project
+4. **To run this project**
+   Use `python manage.py runserver` to run this project
+
+## Live Link 
+<pre>
+  <a href="https://stock24.pythonanywhere.com/">(link)https://stock24.pythonanywhere.com/</a>
+</pre>
 
